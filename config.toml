@@ -1,0 +1,3 @@
+[ollama]
+model = "deepseek-r1:7b"
+url = "http://localhost:11434/api/generate"
